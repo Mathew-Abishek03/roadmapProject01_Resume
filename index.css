@@ -1,0 +1,36 @@
+body{
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-weight: 100;
+    padding: 10px;
+}
+#title{
+    color: black;
+    margin: 0px 0px;
+}
+
+#name{
+    margin: 0px 0px;
+}
+
+.thick-line{
+    border: none; 
+    height: 2px; 
+    background-color: black; 
+    margin: 20px 0; 
+}
+
+.address{
+    font-weight: 100;
+}
+
+.green-line{
+    color: lawngreen;
+    font-weight: 100;
+    padding: 0px 0px;
+}
+
+.blue-line{
+    color:cyan;
+    font-size: 16px;
+    margin: 0px 0px;
+}
