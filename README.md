@@ -1,4 +1,4 @@
-[Click here to view the live demo](https://mathew-abishek03.github.io/roadmapProject01_Resume/)
+(https://mathew-abishek03.github.io/roadmapProject01_Resume/)
 ## How to Run It  
 1. Clone the repository:  
 2. Open the `index.html` file in a web browser.  
