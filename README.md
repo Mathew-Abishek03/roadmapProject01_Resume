@@ -3,7 +3,6 @@
 2. Open the `index.html` file in a web browser.  
 
 ## Live Demo  
-(https://mathew-abishek03.github.io/roadmapProject01_Resume/)
 [Click here to view the live demo](https://mathew-abishek03.github.io/roadmapProject01_Resume/)  
 
 ## Technologies Used  
