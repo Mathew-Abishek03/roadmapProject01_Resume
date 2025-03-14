@@ -1,4 +1,4 @@
-(https://mathew-abishek03.github.io/roadmapProject01_Resume/)
+(https://roadmap.sh/projects/single-page-cv))
 ## How to Run It  
 1. Clone the repository:  
 2. Open the `index.html` file in a web browser.  
